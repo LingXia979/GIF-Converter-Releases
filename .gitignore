@@ -1,0 +1,10 @@
+# Binaries are attached to Releases; never commit signing secrets.
+*.apk
+*.zip
+*.jks
+*.keystore
+*.p12
+*.pfx
+key.properties
+.release-signing/
+*.log
