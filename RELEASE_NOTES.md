@@ -4,6 +4,8 @@
 
 [下载 Android 安装包](https://github.com/LingXia979/GIF-Converter-Releases/releases/download/v0.1.1/GIF-Converter-v0.1.1-arm64.apk) · [完整下载材料](https://github.com/LingXia979/GIF-Converter-Releases/releases/tag/v0.1.1) · [界面预览](https://github.com/LingXia979/GIF-Converter-Releases#应用界面)
 
+**安装补充（2026-09-24）：** 若早期直接安装的内测版更新时提示“签名不一致”，请保留现有 App，使用维护者提供的原内测签名专用升级包，避免卸载丢失历史。公开 v0.1.0 与 v0.1.1 的正式证书一致；独立“兼容测试”版另用包名。请按[最新安装来源对照表](https://github.com/LingXia979/GIF-Converter-Releases/blob/main/INSTALLATION.md)选择更新方式。原发布附件与校验值保留，附件内文档是首次发布时的快照。
+
 ## 本次更新
 
 - 最低系统由 Android 12 降至 Android 10（API 29），应用和媒体库使用一致的最低系统要求。
