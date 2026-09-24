@@ -25,6 +25,20 @@ APK SHA-256：
 
 **已装旧内部测试版时，请先阅读[安装说明](INSTALLATION.md)。** 新包使用正式签名，不能直接覆盖旧调试签名版；卸载会删除应用内历史及未另存文件。重要 GIF、PNG 和 ZIP 请先另存并检查副本。
 
+## 应用界面
+
+以下为 v0.1.0 build 6 的手机实机截图，示例素材使用本项目图标。点击图片可查看大图。
+
+| 首页 | 图片转 GIF | 结果预览 |
+| --- | --- | --- |
+| <a href="screenshots/v0.1.0/01-home.png"><img src="screenshots/v0.1.0/01-home.png" width="240" alt="首页：图片与视频制作，以及 GIF 编辑、压缩、分解和拼接入口"></a> | <a href="screenshots/v0.1.0/02-image-to-gif.png"><img src="screenshots/v0.1.0/02-image-to-gif.png" width="240" alt="图片转 GIF：设置帧间隔、尺寸、画布比例和补边背景"></a> | <a href="screenshots/v0.1.0/03-result-preview.png"><img src="screenshots/v0.1.0/03-result-preview.png" width="240" alt="生成结果：预览 GIF、保存到相册或分享"></a> |
+| 选择制作或处理功能 | 调整动画参数与图片顺序 | 预览、保存与分享 |
+
+| 自定义画布拼接 | 历史功能筛选 | 日期范围 |
+| --- | --- | --- |
+| <a href="screenshots/v0.1.0/04-canvas-joining.png"><img src="screenshots/v0.1.0/04-canvas-joining.png" width="240" alt="画布拼接：自由摆放、等比缩放、背景和网格设置"></a> | <a href="screenshots/v0.1.0/05-history-filter.png"><img src="screenshots/v0.1.0/05-history-filter.png" width="240" alt="生成历史：多选功能类型，并设置生成日期条件"></a> | <a href="screenshots/v0.1.0/06-date-range.png"><img src="screenshots/v0.1.0/06-date-range.png" width="240" alt="日期范围：点选日期或拖动首尾圆点，跨月调整"></a> |
+| 自由拖动、缩放与网格对齐 | 按功能与日期找回结果 | 拖动首尾，包含起止两天 |
+
 ## 支持的功能
 
 本次 build 6 增加历史按功能/日期筛选、可拖动的日期范围，以及固定位置的居中选项按钮。沿用粉紫色举牌图标，适配 Android 圆形、圆角和系统主题图标。
@@ -61,4 +75,4 @@ APK SHA-256：
 ## 共同作者
 
 - [LingXia979](https://github.com/LingXia979)：项目维护、功能方向与真机体验验收。
-- [Codex / GPT](https://github.com/codex)：AI 开发协作，参与实现、修复、验证与材料整理。
+- [Codex / ChatGPT](https://github.com/codex)：AI 开发协作，参与实现、修复、验证与材料整理。GitHub 提交署名对应账号为 `codex`。
