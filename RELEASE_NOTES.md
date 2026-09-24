@@ -2,7 +2,9 @@
 
 一个在 Android 手机上制作和处理 GIF 的本地工具。图片、视频和动图的核心处理在手机上完成，无需上传到转换服务器。
 
-本次为 **v0.1.0 build 6** 私人测试草稿，尚未公开发布。
+**首次公开测试版：v0.1.0（build 6）**，发布于 2026-09-24。适用于 Android 12+、arm64-v8a 手机。
+
+[下载 Android 安装包](https://github.com/LingXia979/GIF-Converter-Releases/releases/download/v0.1.0/GIF-Converter-v0.1.0-arm64.apk) · [完整下载材料](https://github.com/LingXia979/GIF-Converter-Releases/releases/tag/v0.1.0) · [安装说明](https://github.com/LingXia979/GIF-Converter-Releases/blob/main/INSTALLATION.md)
 
 ## 界面预览
 
@@ -55,4 +57,4 @@
 反馈时请提供手机型号、Android 版本、功能、参数及复现步骤。素材请先确认可以分享，并遮挡或移除个人信息。
 
 - [LingXia979](https://github.com/LingXia979)：项目维护、功能方向与真机体验验收。
-- [Codex / ChatGPT](https://github.com/codex)：AI 开发协作，参与实现、修复、验证与材料整理。GitHub 提交署名对应账号为 `codex`。
+- [Codex / ChatGPT](https://github.com/codex)：AI 开发协作，参与实现、修复、验证与材料整理。

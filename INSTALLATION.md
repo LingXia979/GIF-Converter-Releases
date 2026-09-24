@@ -8,7 +8,7 @@
 - 目前功能验收主要来自 BKQ AN80 / Android 16 / 4 KB 页面设备。其他系统及真正的 16 KB 页面环境仍需补充测试。
 - 请预留素材、临时文件和生成结果需要的存储空间。APK 的文件大小不代表处理任务所需的内存或存储量。
 
-从维护者公布的下载渠道获取 `GIF-Converter-v0.1.0-arm64.apk`，核对 `SHA256SUMS.txt` 后打开安装，按系统提示完成操作。不要下载来源不明的改包，也无需关闭手机的整体安全防护。
+从 [v0.1.0 测试版下载页](https://github.com/LingXia979/GIF-Converter-Releases/releases/tag/v0.1.0)获取 `GIF-Converter-v0.1.0-arm64.apk`，核对同页的 `SHA256SUMS.txt` 后打开安装，按系统提示完成操作。不要下载来源不明的改包，也无需关闭手机的整体安全防护。
 
 ## 已安装内部测试版的用户
 

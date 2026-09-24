@@ -4,11 +4,13 @@
 
 在 Android 手机上制作和处理 GIF 的本地工具。图片、视频和动图在手机上处理，无需上传到转换服务器；结果可以预览、保存到相册和分享。
 
-**目前为私人测试阶段，尚未公开发布。** 本仓库保存下载材料与使用说明，应用源码仓库继续私有。
+**v0.1.0 公开测试版已发布。** 本仓库提供 Android 安装包、界面介绍、使用说明及第三方组件材料；应用源码仓库继续私有。
 
 ## 获取测试包
 
-前往 [Releases](https://github.com/LingXia979/GIF-Converter-Releases/releases) 打开 **v0.1.0 测试版草稿**，下载 `GIF-Converter-v0.1.0-arm64.apk`。草稿中同时附有 FFmpeg 对应源码包、第三方许可包、安装说明、免责声明、公开签名证书与 SHA-256 校验清单。
+[下载 Android 安装包](https://github.com/LingXia979/GIF-Converter-Releases/releases/download/v0.1.0/GIF-Converter-v0.1.0-arm64.apk) · [v0.1.0 测试版发布页](https://github.com/LingXia979/GIF-Converter-Releases/releases/tag/v0.1.0)
+
+文件名为 `GIF-Converter-v0.1.0-arm64.apk`。发布页同时提供 FFmpeg 对应源码包、第三方许可包、安装说明、免责声明、公开签名证书与 SHA-256 校验清单。
 
 | 项目 | 当前测试包 |
 | --- | --- |
@@ -66,7 +68,7 @@ APK SHA-256：
 
 仅处理自己拥有权利或已获得授权的素材。软件按当前状态提供，不减损适用法律规定的用户权利；完整数据说明及责任范围见免责声明。
 
-遇到问题可在本仓库 [Issues](https://github.com/LingXia979/GIF-Converter-Releases/issues) 反馈，请提供版本、手机型号、Android 版本、使用的功能和参数、复现步骤及实际结果。仓库私有期间需要仓库访问权限。素材请先确认有权分享，并移除个人信息；不需要提供完整私人相册。
+遇到问题可在本仓库 [Issues](https://github.com/LingXia979/GIF-Converter-Releases/issues) 反馈，请提供版本、手机型号、Android 版本、使用的功能和参数、复现步骤及实际结果。素材请先确认有权分享，并移除个人信息；不需要提供完整私人相册。
 
 ## 第三方组件
 
@@ -75,4 +77,4 @@ APK SHA-256：
 ## 共同作者
 
 - [LingXia979](https://github.com/LingXia979)：项目维护、功能方向与真机体验验收。
-- [Codex / ChatGPT](https://github.com/codex)：AI 开发协作，参与实现、修复、验证与材料整理。GitHub 提交署名对应账号为 `codex`。
+- [Codex / ChatGPT](https://github.com/codex)：AI 开发协作，参与实现、修复、验证与材料整理。
